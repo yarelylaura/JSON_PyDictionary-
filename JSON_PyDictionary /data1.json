@@ -1,0 +1,12 @@
+{
+    "name": "Laura Banuelos Rios",
+    "age": 35,
+    "city": "Burien, WA",
+    "interests": [
+        "reading",
+        "traveling",
+        "cooking",
+        "camping"
+    ],
+    "is_student": true
+}
